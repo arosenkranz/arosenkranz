@@ -1,4 +1,6 @@
-### Hi there 👋
+# Alex Rosenkranz
+
+[alexrosenkranz.dev](https://alexrosenkranz.dev)
 
 <!--
 **arosenkranz/arosenkranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
